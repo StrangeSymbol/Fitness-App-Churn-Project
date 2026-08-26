@@ -1,6 +1,6 @@
 # Fitness-App-Churn-Project
 
-In this project, we assume we have a Fitness Gym business; the retention team would like to know, given its user data, and deliver them a table of churn probabilities and expected revenue at risk given the various subscription prices: Basic - $9.99 per month; Premium - $19.99 per month; and Elite - $29.99 per month.
+In this project, we assume we have a Fitness Gym business; the retention team would like to know, given its user data, deliver a table of churn probabilities and expected revenue at risk given the various subscription prices: Basic - $9.99 per month; Premium - $19.99 per month; and Elite - $29.99 per month.
 
 "Churn" means a customer cancelling or stopping their subscription — leaving the service entirely.
 
